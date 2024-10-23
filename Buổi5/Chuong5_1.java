@@ -45,5 +45,7 @@ public class Chuong5_1 {
                 timGiaTriLonNhatSoSanh(num1, num2));
         System.out.printf("\nGiá trị nhỏ nhất của hai số %d và %d là %d", num1, num2,
                 timGiaTriNhoNhatSoSanh(num1, num2));
+
+        sc.close();
     }
 }
